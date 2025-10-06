@@ -7,6 +7,7 @@ import SearchPill from './components/SearchPill'
 import HeaderActions from './components/HeaderActions'
 import logo from './assets/Airbnb-Logo.wine.png'
 import CitySection from './components/CitySection'
+import Home from './pages/Home'
 
 function HeaderNav(){
   return (
@@ -95,7 +96,7 @@ export default function App(){
       </div>
 
       <Routes>
-        <Route path="/" element={<HomePage/>} />
+        <Route path="/" element={<Home/>} />
         <Route path="/experiences" element={<ExperiencesPage/>} />
         <Route path="/services" element={<ServicesPage/>} />
         <Route path="*" element={
