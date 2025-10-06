@@ -13,12 +13,12 @@ export default function HeaderActions(){
     <div className="flex items-center gap-4">
       <button className="hidden lg:inline-flex px-3 py-1.5 rounded-full text-sm focus:outline-none focus:ring-2 focus:ring-rose-200">Become a host</button>
 
-      <button className="p-2 rounded-full hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-rose-200" aria-label="globe">
+      <button title="Language" className="p-2 rounded-full hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-rose-200" aria-label="Language" aria-haspopup="menu">
         <HiOutlineGlobeAlt className="w-5 h-5 text-gray-600" />
       </button>
 
       <Menu as="div" className="relative">
-        <Menu.Button className="p-2 rounded-full bg-white shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-rose-200">
+        <Menu.Button title="User menu" className="p-2 rounded-full bg-white shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-rose-200" aria-haspopup="menu">
           <HiOutlineMenu className="w-5 h-5 text-gray-700" />
         </Menu.Button>
 

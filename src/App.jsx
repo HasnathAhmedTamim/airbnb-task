@@ -1,45 +1,62 @@
 
-import React from 'react'
-import { NavLink, Routes, Route } from 'react-router-dom'
-import { HiOutlineGlobeAlt } from 'react-icons/hi'
+import React, { useEffect, useState } from 'react'
+import axios from 'axios'
+import { Routes, Route } from 'react-router-dom'
 import NavLinks from './components/NavLinks'
 import SearchPill from './components/SearchPill'
 import HeaderActions from './components/HeaderActions'
 import logo from './assets/Airbnb-Logo.wine.png'
 import CitySection from './components/CitySection'
-import listings from './data/mockListings'
 
 function HeaderNav(){
   return (
     <header className="sticky top-0 bg-white/95 backdrop-blur-sm z-30 border-b border-gray-200 shadow-sm">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-  <div className="flex justify-between items-center py-4">
+      <div className="px-4 sm:px-6 lg:px-8">
+        <div className="flex items-center justify-between py-4">
           <div className="flex items-center gap-3">
             <img src={logo} alt="logo" className="h-12 w-auto object-contain" />
           </div>
 
-          {/* Center nav in the header: desktop and mobile versions */}
+          {/* Center nav in header for md+ screens */}
           <div className="flex-1 flex items-center justify-center">
-            <nav className="hidden md:flex items-center justify-center gap-10">
+            <div className="hidden md:block">
               <NavLinks />
-            </nav>
-
-            {/* mobile nav hidden from header; rendered below header for small screens */}
+            </div>
           </div>
 
           <div>
             <HeaderActions />
           </div>
         </div>
-        {/* removed duplicate mobile nav below header since mobile nav is now inside the header */}
-
-        {/* search pill moved out of header to avoid overlap */}
       </div>
     </header>
   )
 }
 
 function HomePage(){
+  const [listings, setListings] = useState(null)
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(null)
+
+  useEffect(() => {
+    const controller = new AbortController()
+
+    axios
+      .get('/listings.json', { signal: controller.signal })
+      .then((res) => setListings(res.data))
+      .catch((err) => {
+        if (axios.isCancel(err)) return
+        setError(err.message || 'Error')
+      })
+      .finally(() => setLoading(false))
+
+    return () => controller.abort()
+  }, [])
+
+  if (loading) return <div className="p-8 text-center">Loading listings…</div>
+  if (error) return <div className="p-8 text-center text-red-600">Error loading listings: {error}</div>
+  if (!listings || listings.length === 0) return <div className="p-8 text-center">No listings found.</div>
+
   return (
     <div>
       {listings.map((l) => (
@@ -62,24 +79,33 @@ export default function App(){
     <div>
       <HeaderNav />
       {/* Mobile nav (stacked/centered) - visible only on small screens */}
-      <div className="md:hidden">
+      <div className="md:hidden ">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-center py-3">
+            <div className="flex justify-center py-3">
             <NavLinks mobile />
           </div>
         </div>
       </div>
 
-      {/* Search pill moved outside the sticky header so it doesn't overlap the top */}
-      <div className="mt-2">
-        <SearchPill />
+      {/* Full search pill below the header (desktop and mobile stacked variant) */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="py-4">
+          <SearchPill />
+        </div>
       </div>
 
       <Routes>
         <Route path="/" element={<HomePage/>} />
         <Route path="/experiences" element={<ExperiencesPage/>} />
         <Route path="/services" element={<ServicesPage/>} />
+        <Route path="*" element={
+          <div className="p-8 text-center">
+            <h2 className="text-2xl font-semibold mb-2">404 — Page not found</h2>
+            <p className="text-gray-600">The page you requested does not exist.</p>
+          </div>
+        } />
       </Routes>
+      {/* no modal */}
     </div>
   )
 }

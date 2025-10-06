@@ -1,0 +1,47 @@
+[
+  {
+    "city": "Kuala Lumpur",
+    "items": [
+      { "title": "Apartment in Bukit Bintang", "price": "$76", "nights": "for 2 nights", "rating": 4.87, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
+      { "title": "Apartment in Bukit Bintang - Sky View", "price": "$86", "nights": "for 2 nights", "rating": 4.94, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
+      { "title": "Place to stay in Cheras", "price": "$44", "nights": "for 2 nights", "rating": 4.92, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
+      { "title": "Place to stay in Bukit Bintang", "price": "$45", "nights": "for 2 nights", "rating": 4.95, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
+      { "title": "Condo in PULAPOL", "price": "$77", "nights": "for 2 nights", "rating": 4.88, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
+      { "title": "Condo in Kuala Lumpur", "price": "$75", "nights": "for 2 nights", "rating": 4.89, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
+      { "title": "Condo in Kampung Datuk Keramat", "price": "$124", "nights": "for 2 nights", "rating": 4.88, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
+      { "title": "Studio near KLCC", "price": "$90", "nights": "for 2 nights", "rating": 4.76, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
+      { "title": "Cozy flat in Ampang", "price": "$65", "nights": "for 2 nights", "rating": 4.70, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
+      { "title": "Loft in Titiwangsa", "price": "$82", "nights": "for 2 nights", "rating": 4.85, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" }
+    ]
+  },
+  {
+    "city": "Bangkok",
+    "items": [
+      { "title": "Apartment in Khet Ratchathewi", "price": "$83", "nights": "for 2 nights", "rating": 4.95, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
+      { "title": "Hotel room in Khet Phra Nakhon", "price": "$23", "nights": "for 2 nights", "rating": 4.79, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
+      { "title": "Room in Khet Phra Nakhon", "price": "$58", "nights": "for 2 nights", "rating": 4.94, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
+      { "title": "Apartment in Bangkok", "price": "$60", "nights": "for 2 nights", "rating": 4.85, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
+      { "title": "Condo near Chao Phraya", "price": "$95", "nights": "for 2 nights", "rating": 4.80, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
+      { "title": "Studio in Sathorn", "price": "$55", "nights": "for 2 nights", "rating": 4.67, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
+      { "title": "Loft in Ari", "price": "$70", "nights": "for 2 nights", "rating": 4.75, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
+      { "title": "Apartment by Terminal 21", "price": "$67", "nights": "for 2 nights", "rating": 4.72, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
+      { "title": "Cozy room in Ratchathewi", "price": "$50", "nights": "for 2 nights", "rating": 4.68, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
+      { "title": "Penthouse near Siam", "price": "$180", "nights": "for 2 nights", "rating": 4.93, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" }
+    ]
+  },
+  {
+    "city": "London",
+    "items": [
+      { "title": "Flat in Central London", "price": "$140", "nights": "for 2 nights", "rating": 4.9, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
+      { "title": "Studio near Thames", "price": "$120", "nights": "for 2 nights", "rating": 4.8, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
+      { "title": "Apartment in Camden", "price": "$110", "nights": "for 2 nights", "rating": 4.8, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
+      { "title": "Cozy flat in Notting Hill", "price": "$150", "nights": "for 2 nights", "rating": 4.7, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
+      { "title": "Apartment near Covent Garden", "price": "$170", "nights": "for 2 nights", "rating": 4.85, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
+      { "title": "Studio in Shoreditch", "price": "$95", "nights": "for 2 nights", "rating": 4.6, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
+      { "title": "Modern flat near King's Cross", "price": "$125", "nights": "for 2 nights", "rating": 4.78, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
+      { "title": "Loft in Hackney", "price": "$105", "nights": "for 2 nights", "rating": 4.65, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
+      { "title": "Charming flat in Greenwich", "price": "$130", "nights": "for 2 nights", "rating": 4.72, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
+      { "title": "Penthouse near Westminster", "price": "$220", "nights": "for 2 nights", "rating": 4.95, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" }
+    ]
+  }
+]

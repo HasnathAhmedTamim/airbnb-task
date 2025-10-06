@@ -1,7 +1,12 @@
 /* Hide horizontal scrollbar for carousel rows */
 .no-scrollbar {
   -ms-overflow-style: none; /* IE and Edge */
-  scrollbar-width: none; /* Firefox */
+}
+/* Only apply Firefox-specific rule when supported to avoid cross-browser compatibility warnings */
+@supports (scrollbar-width: none) {
+  .no-scrollbar {
+    scrollbar-width: none; /* Firefox */
+  }
 }
 .no-scrollbar::-webkit-scrollbar {
   display: none; /* Safari and Chrome */
