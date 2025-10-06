@@ -2,7 +2,18 @@
 
 This repository is a small React app (Vite) implementing an Airbnb-like homepage UI: responsive search pill, city carousels, inspiration section, and a footer. It's intended as a UI exercise and demo.
 
-For recruiters (TL;DR)
+## Project explanation & use
+
+This repository is a frontend demo (React + Vite) that recreates an Airbnb-style homepage to showcase responsive component design, date/guest selection UX, and carousel layouts. It's intended for reviewers to inspect UI patterns and component structure — there is no backend; demo data is served from `public/listings.json`.
+
+Run locally:
+
+```powershell
+npm install
+npm run dev
+```
+
+- A responsive, componentized Airbnb-like homepage built with React and Vite demonstrating search UI, date selection, responsive carousels and accessible components.
 - Elevator pitch: A responsive, componentized Airbnb-like homepage built with React and Vite demonstrating search UI, date selection, responsive carousels and accessible components.
 - Tech stack: React, Vite, react-day-picker, Swiper, react-icons, axios, Tailwind-style utility classes.
 - What I built / my role:
@@ -65,15 +76,3 @@ Notes & gotchas
 
 - Icons: uses `react-icons`. If you add or update icon packages, restart the dev server so Vite picks up new modules.
 
-Recommended next steps (professionalizing)
-- Add `CONTRIBUTING.md`, `LICENSE` (MIT), and an explicit `CODE_OF_CONDUCT.md`.
-- Add a CI workflow (`.github/workflows/ci.yml`) to run lint and build.
-- Add unit tests (Vitest or Jest) and a small set of smoke tests for key components.
-- Consider extracting shared UI primitives (Button, Icon, Modal) to `src/components/ui/`.
-
-Troubleshooting
-- If an icon import fails after installing `react-icons`, stop the dev server and restart it: `npm run dev`.
-- If `public/listings.json` fails to load, check DevTools → Network for `GET /listings.json` 404 errors.
-
-Contact & authoring
-- This repo was prepared as a UI exercise. If you'd like me to add CI, tests, or polish styles, tell me which change you'd like next and I’ll implement it.
