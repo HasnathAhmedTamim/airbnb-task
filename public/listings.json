@@ -1,47 +1,149 @@
+
+
 [
   {
     "city": "Kuala Lumpur",
     "items": [
-      { "title": "Apartment in Bukit Bintang", "price": "$76", "nights": "for 2 nights", "rating": 4.87, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
-      { "title": "Apartment in Bukit Bintang - Sky View", "price": "$86", "nights": "for 2 nights", "rating": 4.94, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
-      { "title": "Place to stay in Cheras", "price": "$44", "nights": "for 2 nights", "rating": 4.92, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
-      { "title": "Place to stay in Bukit Bintang", "price": "$45", "nights": "for 2 nights", "rating": 4.95, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
-      { "title": "Condo in PULAPOL", "price": "$77", "nights": "for 2 nights", "rating": 4.88, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
-      { "title": "Condo in Kuala Lumpur", "price": "$75", "nights": "for 2 nights", "rating": 4.89, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
-      { "title": "Condo in Kampung Datuk Keramat", "price": "$124", "nights": "for 2 nights", "rating": 4.88, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
-      { "title": "Studio near KLCC", "price": "$90", "nights": "for 2 nights", "rating": 4.76, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
-      { "title": "Cozy flat in Ampang", "price": "$65", "nights": "for 2 nights", "rating": 4.70, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
-      { "title": "Loft in Titiwangsa", "price": "$82", "nights": "for 2 nights", "rating": 4.85, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" }
+      { "title": "Cozy place in Kuala Lumpur #1", "price": "$76", "nights": "for 2 nights", "rating": 4.87, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
+      { "title": "Cozy place in Kuala Lumpur #2", "price": "$78", "nights": "for 2 nights", "rating": 4.88, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
+      { "title": "Cozy place in Kuala Lumpur #3", "price": "$80", "nights": "for 2 nights", "rating": 4.85, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
+      { "title": "Cozy place in Kuala Lumpur #4", "price": "$82", "nights": "for 2 nights", "rating": 4.86, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
+      { "title": "Cozy place in Kuala Lumpur #5", "price": "$84", "nights": "for 2 nights", "rating": 4.84, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
+      { "title": "Cozy place in Kuala Lumpur #6", "price": "$86", "nights": "for 2 nights", "rating": 4.89, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" },
+      { "title": "Cozy place in Kuala Lumpur #7", "price": "$88", "nights": "for 2 nights", "rating": 4.90, "img": "https://a0.muscache.com/im/pictures/77ff00f3-348a-45d6-86fd-baccab647c5b.jpg?im_w=1200" }
     ]
   },
   {
     "city": "Bangkok",
     "items": [
-      { "title": "Apartment in Khet Ratchathewi", "price": "$83", "nights": "for 2 nights", "rating": 4.95, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
-      { "title": "Hotel room in Khet Phra Nakhon", "price": "$23", "nights": "for 2 nights", "rating": 4.79, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
-      { "title": "Room in Khet Phra Nakhon", "price": "$58", "nights": "for 2 nights", "rating": 4.94, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
-      { "title": "Apartment in Bangkok", "price": "$60", "nights": "for 2 nights", "rating": 4.85, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
-      { "title": "Condo near Chao Phraya", "price": "$95", "nights": "for 2 nights", "rating": 4.80, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
-      { "title": "Studio in Sathorn", "price": "$55", "nights": "for 2 nights", "rating": 4.67, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
-      { "title": "Loft in Ari", "price": "$70", "nights": "for 2 nights", "rating": 4.75, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
-      { "title": "Apartment by Terminal 21", "price": "$67", "nights": "for 2 nights", "rating": 4.72, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
-      { "title": "Cozy room in Ratchathewi", "price": "$50", "nights": "for 2 nights", "rating": 4.68, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
-      { "title": "Penthouse near Siam", "price": "$180", "nights": "for 2 nights", "rating": 4.93, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" }
+      { "title": "Cozy place in Bangkok #1", "price": "$83", "nights": "for 2 nights", "rating": 4.95, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
+      { "title": "Cozy place in Bangkok #2", "price": "$85", "nights": "for 2 nights", "rating": 4.92, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
+      { "title": "Cozy place in Bangkok #3", "price": "$87", "nights": "for 2 nights", "rating": 4.90, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
+      { "title": "Cozy place in Bangkok #4", "price": "$89", "nights": "for 2 nights", "rating": 4.88, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
+      { "title": "Cozy place in Bangkok #5", "price": "$91", "nights": "for 2 nights", "rating": 4.86, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
+      { "title": "Cozy place in Bangkok #6", "price": "$93", "nights": "for 2 nights", "rating": 4.84, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" },
+      { "title": "Cozy place in Bangkok #7", "price": "$95", "nights": "for 2 nights", "rating": 4.95, "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1031813899662473330/original/ee5f775d-c575-4a88-bbd3-a37e308c3843.jpeg?im_w=1200" }
     ]
   },
   {
     "city": "London",
     "items": [
-      { "title": "Flat in Central London", "price": "$140", "nights": "for 2 nights", "rating": 4.9, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
-      { "title": "Studio near Thames", "price": "$120", "nights": "for 2 nights", "rating": 4.8, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
-      { "title": "Apartment in Camden", "price": "$110", "nights": "for 2 nights", "rating": 4.8, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
-      { "title": "Cozy flat in Notting Hill", "price": "$150", "nights": "for 2 nights", "rating": 4.7, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
-      { "title": "Apartment near Covent Garden", "price": "$170", "nights": "for 2 nights", "rating": 4.85, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
-      { "title": "Studio in Shoreditch", "price": "$95", "nights": "for 2 nights", "rating": 4.6, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
-      { "title": "Modern flat near King's Cross", "price": "$125", "nights": "for 2 nights", "rating": 4.78, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
-      { "title": "Loft in Hackney", "price": "$105", "nights": "for 2 nights", "rating": 4.65, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
-      { "title": "Charming flat in Greenwich", "price": "$130", "nights": "for 2 nights", "rating": 4.72, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
-      { "title": "Penthouse near Westminster", "price": "$220", "nights": "for 2 nights", "rating": 4.95, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" }
+      { "title": "Cozy place in London #1", "price": "$140", "nights": "for 2 nights", "rating": 4.90, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
+      { "title": "Cozy place in London #2", "price": "$142", "nights": "for 2 nights", "rating": 4.88, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
+      { "title": "Cozy place in London #3", "price": "$144", "nights": "for 2 nights", "rating": 4.87, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
+      { "title": "Cozy place in London #4", "price": "$146", "nights": "for 2 nights", "rating": 4.86, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
+      { "title": "Cozy place in London #5", "price": "$148", "nights": "for 2 nights", "rating": 4.85, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
+      { "title": "Cozy place in London #6", "price": "$150", "nights": "for 2 nights", "rating": 4.84, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" },
+      { "title": "Cozy place in London #7", "price": "$152", "nights": "for 2 nights", "rating": 4.90, "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=60" }
+    ]
+  },
+  {
+    "city": "Popular homes in Kuala Lumpur",
+    "items": [
+      { "title": "Popular home in Kuala Lumpur #1", "price": "$120", "nights": "for 2 nights", "rating": 4.90, "img": "https://plus.unsplash.com/premium_photo-1684508638760-72ad80c0055f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Popular home in Kuala Lumpur #2", "price": "$122", "nights": "for 2 nights", "rating": 4.88, "img": "https://plus.unsplash.com/premium_photo-1684508638760-72ad80c0055f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Popular home in Kuala Lumpur #3", "price": "$124", "nights": "for 2 nights", "rating": 4.86, "img": "https://plus.unsplash.com/premium_photo-1684508638760-72ad80c0055f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Popular home in Kuala Lumpur #4", "price": "$126", "nights": "for 2 nights", "rating": 4.85, "img": "https://plus.unsplash.com/premium_photo-1684508638760-72ad80c0055f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Popular home in Kuala Lumpur #5", "price": "$128", "nights": "for 2 nights", "rating": 4.84, "img": "https://plus.unsplash.com/premium_photo-1684508638760-72ad80c0055f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Popular home in Kuala Lumpur #6", "price": "$130", "nights": "for 2 nights", "rating": 4.89, "img": "https://plus.unsplash.com/premium_photo-1684508638760-72ad80c0055f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Popular home in Kuala Lumpur #7", "price": "$132", "nights": "for 2 nights", "rating": 4.90, "img": "https://plus.unsplash.com/premium_photo-1684508638760-72ad80c0055f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWlyYm5ifGVufDB8fDB8fHww" }
+    ]
+  },
+  {
+    "city": "Available next month in Bangkok",
+    "items": [
+      { "title": "Available next month in Bangkok #1", "price": "$95", "nights": "for 2 nights", "rating": 4.80, "img": "https://images.unsplash.com/photo-1684182309189-a1384f3d7d4c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Available next month in Bangkok #2", "price": "$97", "nights": "for 2 nights", "rating": 4.79, "img": "https://images.unsplash.com/photo-1684182309189-a1384f3d7d4c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Available next month in Bangkok #3", "price": "$99", "nights": "for 2 nights", "rating": 4.78, "img": "https://images.unsplash.com/photo-1684182309189-a1384f3d7d4c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Available next month in Bangkok #4", "price": "$101", "nights": "for 2 nights", "rating": 4.77, "img": "https://images.unsplash.com/photo-1684182309189-a1384f3d7d4c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Available next month in Bangkok #5", "price": "$103", "nights": "for 2 nights", "rating": 4.76, "img": "https://images.unsplash.com/photo-1684182309189-a1384f3d7d4c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Available next month in Bangkok #6", "price": "$105", "nights": "for 2 nights", "rating": 4.75, "img": "https://images.unsplash.com/photo-1684182309189-a1384f3d7d4c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Available next month in Bangkok #7", "price": "$107", "nights": "for 2 nights", "rating": 4.80, "img": "https://images.unsplash.com/photo-1684182309189-a1384f3d7d4c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YWlyYm5ifGVufDB8fDB8fHww" }
+    ]
+  },
+  {
+    "city": "Stay in London",
+    "items": [
+      { "title": "Stay in London #1", "price": "$150", "nights": "for 2 nights", "rating": 4.85, "img": "https://images.unsplash.com/photo-1591825729269-caeb344f6df2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Stay in London #2", "price": "$152", "nights": "for 2 nights", "rating": 4.83, "img": "https://images.unsplash.com/photo-1591825729269-caeb344f6df2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Stay in London #3", "price": "$154", "nights": "for 2 nights", "rating": 4.82, "img": "https://images.unsplash.com/photo-1591825729269-caeb344f6df2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Stay in London #4", "price": "$156", "nights": "for 2 nights", "rating": 4.80, "img": "https://images.unsplash.com/photo-1591825729269-caeb344f6df2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Stay in London #5", "price": "$158", "nights": "for 2 nights", "rating": 4.79, "img": "https://images.unsplash.com/photo-1591825729269-caeb344f6df2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Stay in London #6", "price": "$160", "nights": "for 2 nights", "rating": 4.78, "img": "https://images.unsplash.com/photo-1591825729269-caeb344f6df2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Stay in London #7", "price": "$162", "nights": "for 2 nights", "rating": 4.85, "img": "https://images.unsplash.com/photo-1591825729269-caeb344f6df2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YWlyYm5ifGVufDB8fDB8fHww" }
+    ]
+  },
+  {
+    "city": "Available next month in Toronto",
+    "items": [
+      { "title": "Toronto stay #1", "price": "$110", "nights": "for 2 nights", "rating": 4.70, "img": "https://images.unsplash.com/photo-1614649024145-7f847b1c803f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Toronto stay #2", "price": "$112", "nights": "for 2 nights", "rating": 4.71, "img": "https://images.unsplash.com/photo-1614649024145-7f847b1c803f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Toronto stay #3", "price": "$114", "nights": "for 2 nights", "rating": 4.72, "img": "https://images.unsplash.com/photo-1614649024145-7f847b1c803f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Toronto stay #4", "price": "$116", "nights": "for 2 nights", "rating": 4.73, "img": "https://images.unsplash.com/photo-1614649024145-7f847b1c803f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Toronto stay #5", "price": "$118", "nights": "for 2 nights", "rating": 4.74, "img": "https://images.unsplash.com/photo-1614649024145-7f847b1c803f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Toronto stay #6", "price": "$120", "nights": "for 2 nights", "rating": 4.75, "img": "https://images.unsplash.com/photo-1614649024145-7f847b1c803f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWlyYm5ifGVufDB8fDB8fHww" },
+      { "title": "Toronto stay #7", "price": "$122", "nights": "for 2 nights", "rating": 4.70, "img": "https://images.unsplash.com/photo-1614649024145-7f847b1c803f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWlyYm5ifGVufDB8fDB8fHww" }
+    ]
+  },
+  {
+    "city": "Homes in Seoul",
+    "items": [
+      { "title": "Seoul home #1", "price": "$130", "nights": "for 2 nights", "rating": 4.82, "img": "https://plus.unsplash.com/premium_photo-1686090450346-f418fff5486e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Seoul home #2", "price": "$132", "nights": "for 2 nights", "rating": 4.80, "img": "https://plus.unsplash.com/premium_photo-1686090450346-f418fff5486e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Seoul home #3", "price": "$134", "nights": "for 2 nights", "rating": 4.79, "img": "https://plus.unsplash.com/premium_photo-1686090450346-f418fff5486e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Seoul home #4", "price": "$136", "nights": "for 2 nights", "rating": 4.78, "img": "https://plus.unsplash.com/premium_photo-1686090450346-f418fff5486e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Seoul home #5", "price": "$138", "nights": "for 2 nights", "rating": 4.77, "img": "https://plus.unsplash.com/premium_photo-1686090450346-f418fff5486e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Seoul home #6", "price": "$140", "nights": "for 2 nights", "rating": 4.81, "img": "https://plus.unsplash.com/premium_photo-1686090450346-f418fff5486e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Seoul home #7", "price": "$142", "nights": "for 2 nights", "rating": 4.82, "img": "https://plus.unsplash.com/premium_photo-1686090450346-f418fff5486e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" }
+    ]
+  },
+  {
+    "city": "Available next month in Tokyo",
+    "items": [
+      { "title": "Tokyo stay #1", "price": "$140", "nights": "for 2 nights", "rating": 4.88, "img": "https://images.unsplash.com/photo-1711111038475-0dc445eeb97e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Tokyo stay #2", "price": "$142", "nights": "for 2 nights", "rating": 4.86, "img": "https://images.unsplash.com/photo-1711111038475-0dc445eeb97e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Tokyo stay #3", "price": "$144", "nights": "for 2 nights", "rating": 4.85, "img": "https://images.unsplash.com/photo-1711111038475-0dc445eeb97e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Tokyo stay #4", "price": "$146", "nights": "for 2 nights", "rating": 4.84, "img": "https://images.unsplash.com/photo-1711111038475-0dc445eeb97e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Tokyo stay #5", "price": "$148", "nights": "for 2 nights", "rating": 4.83, "img": "https://images.unsplash.com/photo-1711111038475-0dc445eeb97e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Tokyo stay #6", "price": "$150", "nights": "for 2 nights", "rating": 4.82, "img": "https://images.unsplash.com/photo-1711111038475-0dc445eeb97e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Tokyo stay #7", "price": "$152", "nights": "for 2 nights", "rating": 4.88, "img": "https://images.unsplash.com/photo-1711111038475-0dc445eeb97e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" }
+    ]
+  },
+  {
+    "city": "Places to stay in Osaka",
+    "items": [
+      { "title": "Osaka stay #1", "price": "$105", "nights": "for 2 nights", "rating": 4.60, "img": "https://images.unsplash.com/photo-1644027622521-d0ca669c40d7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Osaka stay #2", "price": "$107", "nights": "for 2 nights", "rating": 4.62, "img": "https://images.unsplash.com/photo-1644027622521-d0ca669c40d7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Osaka stay #3", "price": "$109", "nights": "for 2 nights", "rating": 4.63, "img": "https://images.unsplash.com/photo-1644027622521-d0ca669c40d7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Osaka stay #4", "price": "$111", "nights": "for 2 nights", "rating": 4.64, "img": "https://images.unsplash.com/photo-1644027622521-d0ca669c40d7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Osaka stay #5", "price": "$113", "nights": "for 2 nights", "rating": 4.65, "img": "https://images.unsplash.com/photo-1644027622521-d0ca669c40d7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Osaka stay #6", "price": "$115", "nights": "for 2 nights", "rating": 4.59, "img": "https://images.unsplash.com/photo-1644027622521-d0ca669c40d7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Osaka stay #7", "price": "$117", "nights": "for 2 nights", "rating": 4.60, "img": "https://images.unsplash.com/photo-1644027622521-d0ca669c40d7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" }
+    ]
+  },
+  {
+    "city": "Check out homes in Melbourne",
+    "items": [
+      { "title": "Melbourne home #1", "price": "$115", "nights": "for 2 nights", "rating": 4.65, "img": "https://images.unsplash.com/photo-1589419896452-b460b8b390a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Melbourne home #2", "price": "$117", "nights": "for 2 nights", "rating": 4.66, "img": "https://images.unsplash.com/photo-1589419896452-b460b8b390a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Melbourne home #3", "price": "$119", "nights": "for 2 nights", "rating": 4.67, "img": "https://images.unsplash.com/photo-1589419896452-b460b8b390a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Melbourne home #4", "price": "$121", "nights": "for 2 nights", "rating": 4.64, "img": "https://images.unsplash.com/photo-1589419896452-b460b8b390a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Melbourne home #5", "price": "$123", "nights": "for 2 nights", "rating": 4.63, "img": "https://images.unsplash.com/photo-1589419896452-b460b8b390a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Melbourne home #6", "price": "$125", "nights": "for 2 nights", "rating": 4.62, "img": "https://images.unsplash.com/photo-1589419896452-b460b8b390a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Melbourne home #7", "price": "$127", "nights": "for 2 nights", "rating": 4.65, "img": "https://images.unsplash.com/photo-1589419896452-b460b8b390a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" }
+    ]
+  },
+  {
+    "city": "Popular homes in Sydney",
+    "items": [
+      { "title": "Sydney home #1", "price": "$125", "nights": "for 2 nights", "rating": 4.75, "img": "https://images.unsplash.com/photo-1697807646004-31ae73a1a625?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Sydney home #2", "price": "$127", "nights": "for 2 nights", "rating": 4.74, "img": "https://images.unsplash.com/photo-1697807646004-31ae73a1a625?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Sydney home #3", "price": "$129", "nights": "for 2 nights", "rating": 4.73, "img": "https://images.unsplash.com/photo-1697807646004-31ae73a1a625?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Sydney home #4", "price": "$131", "nights": "for 2 nights", "rating": 4.72, "img": "https://images.unsplash.com/photo-1697807646004-31ae73a1a625?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Sydney home #5", "price": "$133", "nights": "for 2 nights", "rating": 4.71, "img": "https://images.unsplash.com/photo-1697807646004-31ae73a1a625?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Sydney home #6", "price": "$135", "nights": "for 2 nights", "rating": 4.70, "img": "https://images.unsplash.com/photo-1697807646004-31ae73a1a625?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" },
+      { "title": "Sydney home #7", "price": "$137", "nights": "for 2 nights", "rating": 4.75, "img": "https://images.unsplash.com/photo-1697807646004-31ae73a1a625?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGFpcmJuYnxlbnwwfHwwfHx8MA%3D%3D" }
     ]
   }
 ]
+

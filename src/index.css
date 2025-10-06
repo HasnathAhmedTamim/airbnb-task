@@ -1,2 +1,2 @@
 @import "tailwindcss";
-/* Removed scrollbar.css import */
+@import "./styles/scrollbar.css";
