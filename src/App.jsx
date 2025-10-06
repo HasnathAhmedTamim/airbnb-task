@@ -6,6 +6,8 @@ import NavLinks from './components/NavLinks'
 import SearchPill from './components/SearchPill'
 import HeaderActions from './components/HeaderActions'
 import logo from './assets/Airbnb-Logo.wine.png'
+import CitySection from './components/CitySection'
+import listings from './data/mockListings'
 
 function HeaderNav(){
   return (
@@ -38,7 +40,13 @@ function HeaderNav(){
 }
 
 function HomePage(){
-  return <div className="p-8">This is the Homes page content (placeholder).</div>
+  return (
+    <div>
+      {listings.map((l) => (
+        <CitySection key={l.city} city={l.city} items={l.items} />
+      ))}
+    </div>
+  )
 }
 
 function ExperiencesPage(){
